@@ -116,6 +116,11 @@ The system follows the MVC architectural pattern:
 ## Conclusion
 This School Management System demonstrates an efficient and scalable MERN-based solution designed to digitalize school operations.
 
+## Contibuters
+
+<p> NITHIN RAJ C.R | Final year IT student </p>
+<p> RAFIGATHUNISA D| Final year IT student </p>
+
 
 
 
